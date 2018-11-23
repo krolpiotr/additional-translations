@@ -25,11 +25,11 @@ msgstr "Ny E-post"
 
 #: src/ZfcUser/language/msgIds.php:9
 msgid "Verify New Email"
-msgstr "Подтвердите новый email"
+msgstr "Verifiera ny e-post"
 
 #: src/ZfcUser/language/msgIds.php:10
 msgid "Display Name"
-msgstr "Отображаемое имя"
+msgstr "Visningsnamn"
 
 #: src/ZfcUser/language/msgIds.php:11
 msgid "Password"
@@ -37,92 +37,92 @@ msgstr "Lösenord"
 
 #: src/ZfcUser/language/msgIds.php:12
 msgid "Password Verify"
-msgstr "Подтверждение пароля"
+msgstr "Lösenord Verifiera"
 
 #: src/ZfcUser/language/msgIds.php:13
 msgid "Current Password"
-msgstr "Текущий пароль"
+msgstr "Nuvarande lösenord"
 
 #: src/ZfcUser/language/msgIds.php:14
 msgid "Verify New Password"
-msgstr "Подтверждение нового пароля"
+msgstr "Verifiera nytt lösenord"
 
 #: src/ZfcUser/language/msgIds.php:15
 msgid "New Password"
-msgstr "Новый пароль"
+msgstr "Nytt lösenord"
 
 #: src/ZfcUser/language/msgIds.php:16
 msgid "Please type the following text"
-msgstr "Пожалуйста, введите следующий текст"
+msgstr "Vänligen skriv följande text"
 
 #: src/ZfcUser/language/msgIds.php:17
 msgid "Submit"
-msgstr "Отправить"
+msgstr "Lämna"
 
 #: src/ZfcUser/language/msgIds.php:18 view/zfc-user/user/login.phtml:1
 msgid "Sign In"
-msgstr "Вход"
+msgstr "Logga in"
 
 #: src/ZfcUser/language/msgIds.php:19 view/zfc-user/user/register.phtml:1
 msgid "Register"
-msgstr "Регистрация"
+msgstr "Registrera"
 
 #: src/ZfcUser/language/msgIds.php:20
 msgid "No record matching the input was found"
-msgstr "Нет записей, соответствующих вашему запросу"
+msgstr "Ingen post som matchade inmatningen hittades"
 
 #: src/ZfcUser/language/msgIds.php:21
 msgid "A record matching the input was found"
-msgstr "Найдена запись, соответствующая вашему запросу"
+msgstr "En rekord som matchade ingången hittades"
 
 #: src/ZfcUser/language/msgIds.php:22
 msgid "Authentication failed. Please try again."
 msgstr ""
-"Ошибка авторизации. "
-"Пожалуйста, попробуйте еще раз."
+"Autentisering misslyckades. "
+"Var god försök igen."
 
 #: view/zfc-user/user/login.phtml:31
 msgid "Not registered?"
-msgstr "Зарегистрированы?"
+msgstr "Inte registrerad?"
 
 #: view/zfc-user/user/login.phtml:31
 msgid "Sign up!"
-msgstr "Регистрация"
+msgstr "Bli medlem!"
 
 #: view/zfc-user/user/changeemail.phtml:1
 #, php-format
 msgid "Change Email for %s"
-msgstr "Изменить email для %s"
+msgstr "Ändra e-post för %s"
 
 #: view/zfc-user/user/changeemail.phtml:3
 msgid "Email address changed successfully."
-msgstr "Email успешно изменен"
+msgstr "E-postadressen ändrades framgångsrikt."
 
 #: view/zfc-user/user/changeemail.phtml:5
 msgid "Unable to update your email address. Please try again."
 msgstr ""
-"Не могу изменить email. "
-"Пожалуйста, попробуйте еще раз."
+"Det gick inte att uppdatera din e-postadress. "
+"Var god försök igen."
 
 #: view/zfc-user/user/changepassword.phtml:1
 #, php-format
 msgid "Change Password for %s"
-msgstr "Изменить пароль для %s"
+msgstr "Byt lösenord för %s"
 
 #: view/zfc-user/user/changepassword.phtml:3
 msgid "Password changed successfully."
-msgstr "Пароль успешно изменен"
+msgstr "Lösenordet har ändrats."
 
 #: view/zfc-user/user/changepassword.phtml:5
 msgid "Unable to update your password. Please try again."
 msgstr ""
-"Не могу изменить пароль. "
-"Пожалуйста, попробуйте еще раз."
+"Det gick inte att uppdatera ditt lösenord. "
+"Var god försök igen."
 
 #: view/zfc-user/user/index.phtml:2
 msgid "Hello"
-msgstr "Привет"
+msgstr "Hej"
 
 #: view/zfc-user/user/index.phtml:3
 msgid "Sign Out"
-msgstr "Выйти"
+msgstr "Logga ut"
